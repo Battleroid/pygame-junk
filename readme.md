@@ -16,7 +16,7 @@ Playing with different pygame ideas.
 
 ### Terrain generation with midpoint displacement
 
-![terrain](examples/terrain.png)
+![terrain](examples/terrain.gif)
 
 ### Projectile based shooting
 
