@@ -7,3 +7,5 @@ Playing with different pygame ideas.
 ![platform](examples/platform.gif)
 
 ![terrain](examples/terrain.png)
+
+![launcher](examples/launcher.gif)
